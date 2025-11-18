@@ -8,9 +8,9 @@
 ### 3rd Semester
 
 **Submitted by:**  
-Hardik Joshi [243501062]
-Prince [243501157]
-Jishan Khan Bhati [243501083]
+Hardik Joshi [243501062], 
+Prince [243501157], 
+Jishan Khan Bhati [243501083], 
 Krishan Kumar [243501094]
 
 **Submitted to:**  
