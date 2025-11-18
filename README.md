@@ -14,8 +14,6 @@ Hardik Joshi [243501062]
 Poja Mam
 Department of Computer Applications
 
----
-
 **Academic Year:** 2025-26  
 **Date of Submission:** November 18, 2025
 
