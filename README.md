@@ -1,15 +1,11 @@
 # Smart Attendance Analyzer
 
----
-
 <div align="center">
 
 ## MID-SEMESTER ASSIGNMENT
 
 ### Bachelor of Computer Applications (BCA)
 ### 3rd Semester
-
----
 
 **Submitted by:**  
 Hardik Joshi [243501062]
